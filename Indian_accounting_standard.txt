@@ -1,0 +1,40 @@
+Ind AS 1	Presentation of Financial Statements
+Ind AS 2	Inventories
+Ind AS 7	Statement of Cash Flows
+Ind AS 8	Accounting Policies, Changes in Accounting Estimates and Errors
+Ind AS 10	Events occurring after Reporting Period
+Ind AS 11	Construction Contracts (Omitted by the Companies (Indian Accounting Standards) Amendment Rules, 2018)
+Ind AS 12	Income Taxes
+Ind AS 16	Property, Plant and Equipment
+Ind AS 19	Employee Benefits
+Ind AS 20	Accounting for Government Grants and Disclosure of Government Assistance
+Ind AS 21	The Effects of Changes in Foreign Exchange Rates
+Ind AS 23	Borrowing Costs
+Ind AS 24	Related Party Disclosures
+Ind AS 27	Separate Financial Statements
+Ind AS 28	Investments in Associates and Joint Ventures
+Ind AS 29	Financial Reporting in Hyper inflationary Economies
+Ind AS 32	Financial Instruments: Presentation
+Ind AS 33	Earnings per Share
+Ind AS 34	Interim Financial Reporting
+Ind AS 36	Impairment of Assets
+Ind AS 37	Provisions, Contingent Liabilities and Contingent Assets
+Ind AS 38	Intangible Assets
+Ind AS 40	Investment Property
+Ind AS 41	Agriculture
+Ind AS 101	First time adoption of Ind AS
+Ind AS 102	Share Based Payment
+Ind AS 103	Business Combination
+Ind AS 104	Insurance Contracts
+Ind AS 105	Non-Current Assets Held for Sale and Discontinued Operations
+Ind AS 106	Exploration for and Evaluation of Mineral Resources
+Ind AS 107	Financial Instruments: Disclosures
+Ind AS 108	Operating Segments
+Ind AS 109	Financial Instruments
+Ind AS 110	Consolidated Financial Statements
+Ind AS 111	Joint Arrangements
+Ind AS 112	Disclosure of Interests in Other Entities
+Ind AS 113	Fair Value Measurement
+Ind AS 114	Regulatory Deferral Accounts
+Ind AS 115	Revenue from Contracts with Customers(Applicable from April 2018)
+Ind AS 116	Leases (Applicable from April 2019)
