@@ -5,7 +5,7 @@ question_bank_dictionary = {}
 
 
 
-with open("C:/Users/sam/Documents/indian_accounting_standard.txt") as fhand:
+with open("PATH of file indian_accounting_standard") as fhand:
 
     new_list = []
     question_bank_dictionary = {}
